@@ -12,7 +12,7 @@ git clone https://github.com/avvarisreedhar/lost-and-found.git
 * Install the dependencies
 ```
 cd lost-and-found/
-pip install -r requirements.txt`
+pip install -r requirements.txt
 ```
 * Run the following commands
 ```
@@ -20,7 +20,7 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 ```
-Now, navigate to [localhost](localhost:8000) to see the site up-and-running.
+Now, navigate to [localhost](http://127.0.0.1:8000/) to see the site up-and-running.
 ## Contribute
 Please Contribute -- **this is Open Source!**
 ## License
