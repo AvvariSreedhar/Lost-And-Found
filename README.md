@@ -24,4 +24,4 @@ Now, navigate to [localhost](http://127.0.0.1:8000/) to see the site up-and-runn
 ## Contribute
 Please Contribute -- **this is Open Source!**
 ## License
-This project is licensed under the [MIT License](https://mit-license.org/).
+This project is licensed under the [MIT License](https://mit-license.org/)
