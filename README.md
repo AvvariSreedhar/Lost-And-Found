@@ -1,5 +1,5 @@
 # lost-and-found
-Lost and found is a django-base portal for bridging the gap between owners and their lost items. This is made as a learning experience in Django.
+Lost and found is a django-based portal for bridging the gap between owners and their lost items. This is made as a learning experience in Django.
 
 Feel free to look around and explore the repo. For any bug reporting, improvement or feature addition, you can open a new issue [here](https://github.com/avvarisreedhar/lost-and-found/issues/new).
 
