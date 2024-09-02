@@ -9,7 +9,7 @@ registries:
     type: npm-registry
     url: https://npm.pkg.github.com/uipath
     username: sreedhar
-    password: MyPassword
+    password: ${{secrets.DEPENDABOT_SECRET}}
 updates:
   - package-ecosystem: "" # See documentation for possible values
     directory: "/" # Location of package manifests
